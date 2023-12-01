@@ -1,1 +1,2 @@
-My name is Jatin Tank. I am in feature branch now.
+My name is Jatin Tank. My Roll no. is 102003211.
+Conflicts Resolved Successfully.
